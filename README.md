@@ -20,7 +20,7 @@ A simulated IT service desk environment built in ServiceNow to demonstrate pract
 - Knowledge Management
 - Service Catalog
 - Reporting
-- IT Support Dashboard
+- Dashboard
 
 ## Support Structure
 
